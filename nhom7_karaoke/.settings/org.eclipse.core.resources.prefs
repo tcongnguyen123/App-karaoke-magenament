@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/DAO/HoaDon_DAO.java=UTF-8
+encoding//src/GUI/ManHinhChinh.java=UTF-8
+encoding//src/GUI/QuanLiDichVu.java=UTF-8
+encoding//src/GUI/QuanLiHoaDon.java=UTF-8
+encoding//src/GUI/QuanLiKhachHang.java=UTF-8
+encoding//src/GUI/QuanLiNhanVien.java=UTF-8
+encoding//src/GUI/QuanLiPhong.java=UTF-8
+encoding//src/GUI/ThongKeNgay.java=UTF-8
+encoding//src/GUI/TimKiemDichVu.java=UTF-8
+encoding//src/GUI/TimKiemKhachHang.java=UTF-8
+encoding//src/GUI/TimKiemNhanVien.java=UTF-8
+encoding//src/GUI/TimKiemPhong.java=UTF-8
+encoding//src/GUI/frmChonKH.java=UTF-8
+encoding//src/GUI/frmDatDichVu.java=UTF-8
+encoding//src/GUI/frmDatPhong.java=UTF-8
+encoding//src/GUI/frmHoaDon.java=UTF-8
